@@ -1,0 +1,17 @@
+#a
+{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  
+}
+img {
+  border-radius: 25px;
+}
+h3 {
+	padding-left: 60px;
+	  text-align: justify;
+  text-justify: inter-word;
+  padding-right: 80px;
+}
